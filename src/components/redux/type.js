@@ -1,0 +1,4 @@
+export const TAB_RESIZE = 'TAB_RESIZE'
+export const CHANGE_TEXT  = 'CHANGE_TEXT'
+export const CHANGE_TOLLBAR  = 'CHANGE_TOLLBAR'
+export const CHANGE_DATA  = 'CHANGE_TOLLBAR'
